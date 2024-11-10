@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversor T°</string>
+    <string name="activity_main_text_0">Bienvenido al Conversor de Temperaturas</string>
+    <string name="hint_temperature_input">Ingresa la temperatura</string>
+    <string name="button_convert">Convertir</string>
+    <string name="result_text">Resultado: </string>
+    <string name="error_invalid_temperature">Por favor ingresa una temperatura válida</string>
+    <string name="error_invalid_number">Por favor ingresa un número válido</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+
+
+
+</resources>
